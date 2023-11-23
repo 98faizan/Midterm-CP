@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Student\source\repos\Midterm1\Midterm1\Source.cpp(8,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Student\source\repos\Midterm1\Midterm1\Source.cpp(8,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Student\source\repos\Midterm1\Midterm1\Source.cpp(15,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Midterm1.vcxproj -> C:\Users\Student\source\repos\Midterm1\x64\Debug\Midterm1.exe
